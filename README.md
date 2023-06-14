@@ -1,4 +1,4 @@
-# Opa, sou Petrônio Fernandes 👋
+# Opa, sou Petrônio Fernandes :v:
 _______________________________________
 ## :pushpin: Formado em SI
 ## :pushpin: Músico e Luthier
