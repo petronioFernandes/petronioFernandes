@@ -4,7 +4,7 @@ _______________________________________
 ## :pushpin: Músico e Luthier
 
 ### - Cursando o Next C.E.S.A.R. 
-### - contato: peufernandes89@gmail.com / https://www.linkedin.com/in/petr%C3%B4nio-fernandes-da-silva-neto-a75a8b20b/
+### - Contato: peufernandes89@gmail.com / https://www.linkedin.com/in/petr%C3%B4nio-fernandes-da-silva-neto-a75a8b20b/
 
 <!--
 **petronioFernandes/petronioFernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
